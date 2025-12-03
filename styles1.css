@@ -38,7 +38,9 @@ body{margin:0;font-family:Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe
 .btn.ghost{background:transparent;border:1px solid rgba(20,20,40,0.06);color:#222}
 .small{font-size:12px;color:var(--muted)}
 /* this has changed  */
-
+/* .small{
+  display: none;
+} */
 .status{min-width:180px;text-align:right}
 
 /* Dashboard grid */
@@ -210,6 +212,5 @@ th{color:var(--muted);font-weight:700}
     }
     
     
-
 
   }
